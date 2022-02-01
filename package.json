@@ -1,0 +1,20 @@
+{
+  "name": "docs",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Marion Curtil <marion.curtil@worldline.com>",
+  "license": "MIT",
+  "private": false,
+  "scripts": {
+    "dev": "vuepress dev src",
+    "build": "vuepress build src"
+  },
+  "devDependencies": {
+    "@vuepress/bundler-webpack": "2.0.0-beta.35",
+    "@vuepress/plugin-register-components": "2.0.0-beta.35",
+    "json-loader": "^0.5.7",
+    "swagger-ui": "4.3.0",
+    "vuepress": "2.0.0-beta.35",
+    "yaml-loader": "^0.6.0"
+  }
+}

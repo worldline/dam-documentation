@@ -1,0 +1,22 @@
+@use 'swagger-ui';
+
+:root {
+  // brand colors
+  --c-brand: #46BEAA;
+  --c-brand-light: #379e8d;
+  --content-width: 980px;
+}
+
+html.dark {
+  // brand colors
+  --c-brand: #46BEAA;
+  --c-brand-light: #379e8d;
+}
+
+.theme-container.api-doc-page {
+  --content-width: 1400px;
+}
+
+.home .hero img {
+  max-height: 200px;
+}
