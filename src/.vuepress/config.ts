@@ -27,22 +27,44 @@ export default defineUserConfig<DefaultThemeOptions, WebpackBundlerOptions>({
     ],
     sidebar: [
       { text: '🔤 Lexicon', link: '/lexicon' },
-      { text: '📢 Overview', link: '/overview' },
-      { text: '📱 Mobile application', link: '/mobile-app' },
-      { text: '💻 Back Office', link:'/backoffice/', children: [
-        { text: 'Login', link: '/backoffice/login' },
-        { text: 'My profile', link: '/backoffice/profile' },
-        { text: 'Acceptance network enrolment', link: '/backoffice/acceptance-network-enrolment' },
-        { text: 'Dashboard', link: '/backoffice/dashboard' },
-        { text: 'Assets management', link: '/backoffice/asset-management' },
-        { text: 'Oganisation management', link: '/backoffice/organisation-management' },
-        { text: 'Wallet management', link: '/backoffice/wallet-management' },
-        { text: 'Transaction management', link: '/backoffice/transaction-management' },
-        { text: 'Audit trail', link: '/backoffice/audit-trail' }
+      { text: '📢 Overview', collapsible: false, children: [
+        { text: 'Introduction', link: '/overview/#introduction' },
+        { text: 'Meet the DAM Platform', link: '/overview/#meet-the-dam-platform' },
+        { text: 'Features and Benefits ', link: '/overview/#features-and-benefits ' }
+      ]},      { text: '📱 Mobile application', link: '/mobile-app' },
+      { text: '💻 Back Office', collapsible: false, children: [
+        { text: 'Login', link: '/backofficetest/#login' },
+        { text: 'My Profile', link: '/backofficetest/#my-profile' },
+        { text: 'Acceptance Network Enrolment', link: '/backofficetest/#acceptance-network-enrolment' },
+        { text: 'Dashboard', link: '/backofficetest/#dashboard' },
+        { text: 'Assets Management', link: '/backofficetest/#assets-management' },
+        { text: 'Assets rates', link: '/backofficetest/#assets-rates-management' },
+        { text: 'Loyalty Programs', link: '/backofficetest/#loyalty-programs' },
+        { text: 'Organisation Management', link: '/backofficetest/#organisation-management' },
+        { text: 'Establishments', link: '/backofficetest/#establishments' },
+        { text: 'Wallet Management', link: '/backofficetest/#wallet-management' },
+        { text: 'KYC Management', link: '/backofficetest/#kyc-management' },
+        { text: 'Transactions Management', link: '/backofficetest/#transactions-management' },
+        { text: 'Cash-in', link: '/backofficetest/#cash-in' },
+        { text: 'Bills', link: '/backofficetest/#bills' },
+        { text: 'Blockchain Transactions', link: '/backofficetest/#blockchain-transactions' },
+        { text: 'Rules on Transactions', link: '/backofficetest/#rules-on-transactions' },
+        { text: 'User And EndUser Management', link: '/backofficetest/#user-and-enduser-management' },
+        { text: 'Users', link: '/backofficetest/#users' },
+        { text: 'EndUsers', link: '/backofficetest/#endusers' },
+        { text: 'Permissions And Rights', link: '/backofficetest/#permissions-and-rights' },
+        { text: 'Cash-out', link: '/backofficetest/#cash-out' },
+        { text: 'Audit Trail', link: '/backofficetest/#audit-trail' },
+        { text: 'Instance Administration', link: '/backofficetest/#instance-administration' }
       ]},
       { text: '✔️ General rules', collapsible: false, children: [
-        { text: 'Password', link: '/general-rules/#password' },
-        { text: 'Phone number', link: '/general-rules/#phone-number' }
+        { text: 'Password Policy', link: '/general-rules/#password-policy' },
+        { text: 'Phone number', link: '/general-rules/#phone-number-management-rules' },
+        { text: 'Pagination', link: '/general-rules/#pagination' },
+        { text: 'Available currencies', link: '/general-rules/#available-currencies' },
+        { text: 'Multi-tab browser', link: '/general-rules/#multi-tab-browser' },
+        { text: 'Communication language', link: '/general-rules/#communication-language' },
+        { text: 'Blocked countries', link: '/general-rules/#blocked-countries' }
       ]},
       { text: '📜 Annexes', link: '/annexes' }
     ],

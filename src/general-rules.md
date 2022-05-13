@@ -1,21 +1,42 @@
 # General rules
 
-## Password <!-- do not modify this line -->
+## Password policy<!-- do not modify this line -->
+<u>Back-office user policy:</u> 
+* 15 to 100 characters and 4 mandatory criteria: 1 lowercase, 1 uppercase, 1 digit, 1 special character. 
+* Different from the previous password. 
 
-## Subitle 1
+<u>End-users policy:</u> 
+* 10 to 100 characters and 3 out 4 criteria: 1 lowercase, 1 uppercase, 1 digit, 1 special character. 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas ac felis mattis, rutrum justo et, ornare augue. Etiam eu dictum ipsum. Phasellus fermentum a odio nec tristique. Sed mattis nisi massa, eu facilisis est ornare sit amet. In ex enim, consequat eget urna sit amet, elementum viverra diam. Aenean a sagittis dui, in lacinia sem. Vivamus volutpat dui nec viverra tempus. Proin feugiat odio nec finibus luctus. Donec vitae massa mi. Aenean placerat mattis lectus, sed facilisis neque vehicula non. Quisque gravida diam non leo gravida, vel ornare libero mollis.
+## Phone number management rules 
+Only one phone number can be active at the same time. When activating a phone number by OTP code, the 
+users and end-users account previously created with the same phone number will be automatically 
+deactivated. 
 
-## Subitle 2
+## Pagination
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas ac felis mattis, rutrum justo et, ornare augue. Etiam eu dictum ipsum. Phasellus fermentum a odio nec tristique. Sed mattis nisi massa, eu facilisis est ornare sit amet. In ex enim, consequat eget urna sit amet, elementum viverra diam. Aenean a sagittis dui, in lacinia sem. Vivamus volutpat dui nec viverra tempus. Proin feugiat odio nec finibus luctus. Donec vitae massa mi. Aenean placerat mattis lectus, sed facilisis neque vehicula non. Quisque gravida diam non leo gravida, vel ornare libero mollis.
+All lists available in the back office are paginated .
+It is possible to choose the number of items displayed per page.
 
-## Phone number <!-- do not modify this line -->
+## Available currencies
 
-## Subitle 1
+The default currency for the end-user is defined by the phone number at the registration. 
+* Currencies managed by default in the product : 
+* Euro : EUR 
+* Dollar US : USD 
+Additional currencies can be added according to the specificities of the platform owner. 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas ac felis mattis, rutrum justo et, ornare augue. Etiam eu dictum ipsum. Phasellus fermentum a odio nec tristique. Sed mattis nisi massa, eu facilisis est ornare sit amet. In ex enim, consequat eget urna sit amet, elementum viverra diam. Aenean a sagittis dui, in lacinia sem. Vivamus volutpat dui nec viverra tempus. Proin feugiat odio nec finibus luctus. Donec vitae massa mi. Aenean placerat mattis lectus, sed facilisis neque vehicula non. Quisque gravida diam non leo gravida, vel ornare libero mollis.
+## Multi-tab browser
+There is an auto-refresh of the page if there is a user change on another tab of the Internet browser. 
 
-## Subitle 2
+## Communication language
+The communication language for the back-office user is defined by the website language (chosen on the right of the top toolbar). 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas ac felis mattis, rutrum justo et, ornare augue. Etiam eu dictum ipsum. Phasellus fermentum a odio nec tristique. Sed mattis nisi massa, eu facilisis est ornare sit amet. In ex enim, consequat eget urna sit amet, elementum viverra diam. Aenean a sagittis dui, in lacinia sem. Vivamus volutpat dui nec viverra tempus. Proin feugiat odio nec finibus luctus. Donec vitae massa mi. Aenean placerat mattis lectus, sed facilisis neque vehicula non. Quisque gravida diam non leo gravida, vel ornare libero mollis.
+## Blocked coutries
+Countries where the use of crypto-currencies is prohibited are blocked for the end-users enrolment. The control is based on the phone number : 
+* North Korea 
+* Iran 
+* Iraq 
+* Syria 
+* Myanmar 
+Additional countries can be added according to the specificities of the platform owner.

@@ -1,21 +1,16 @@
 # Lexicon
 
-## Title 1
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas ac felis mattis, rutrum justo et, ornare augue. Etiam eu dictum ipsum. Phasellus fermentum a odio nec tristique. Sed mattis nisi massa, eu facilisis est ornare sit amet. In ex enim, consequat eget urna sit amet, elementum viverra diam. Aenean a sagittis dui, in lacinia sem. Vivamus volutpat dui nec viverra tempus. Proin feugiat odio nec finibus luctus. Donec vitae massa mi. Aenean placerat mattis lectus, sed facilisis neque vehicula non. Quisque gravida diam non leo gravida, vel ornare libero mollis.
-
-Proin aliquet erat quis egestas rutrum. Suspendisse eu lacus nunc. Mauris eu mi quis velit bibendum luctus. Nam molestie vel diam quis pretium. In hac habitasse platea dictumst. Donec vulputate efficitur massa sed cursus. Cras non dui sed odio dignissim malesuada. Sed iaculis sapien et risus accumsan, ut rutrum sem molestie. Nunc tristique luctus porttitor. Sed et ante non diam bibendum cursus. Praesent id semper enim. Sed porttitor arcu tincidunt tellus auctor interdum. Curabitur ut interdum dui, ac iaculis massa. Nunc facilisis scelerisque maximus. Vestibulum felis felis, ornare porttitor ante quis, laoreet hendrerit est.
-
-Curabitur tincidunt eu sapien mattis congue. Aenean tincidunt justo sed justo ullamcorper, sed pharetra ligula tincidunt. Quisque vel magna non justo gravida congue et nec urna. Suspendisse gravida diam eleifend, venenatis sapien et, tincidunt lectus. In ut laoreet ex, quis suscipit augue. Vivamus congue ut libero sed ultricies. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Aenean in diam tempus, molestie nisl volutpat, accumsan enim. Duis hendrerit at sem ut viverra. Mauris finibus odio nec lacus posuere, vitae auctor massa vehicula.
-
-## Title 2
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas ac felis mattis, rutrum justo et, ornare augue. Etiam eu dictum ipsum. Phasellus fermentum a odio nec tristique. Sed mattis nisi massa, eu facilisis est ornare sit amet. In ex enim, consequat eget urna sit amet, elementum viverra diam. Aenean a sagittis dui, in lacinia sem. Vivamus volutpat dui nec viverra tempus. Proin feugiat odio nec finibus luctus. Donec vitae massa mi. Aenean placerat mattis lectus, sed facilisis neque vehicula non. Quisque gravida diam non leo gravida, vel ornare libero mollis.
-
-Proin aliquet erat quis egestas rutrum. Suspendisse eu lacus nunc. Mauris eu mi quis velit bibendum luctus. Nam molestie vel diam quis pretium. In hac habitasse platea dictumst. Donec vulputate efficitur massa sed cursus. Cras non dui sed odio dignissim malesuada. Sed iaculis sapien et risus accumsan, ut rutrum sem molestie. Nunc tristique luctus porttitor. Sed et ante non diam bibendum cursus. Praesent id semper enim. Sed porttitor arcu tincidunt tellus auctor interdum. Curabitur ut interdum dui, ac iaculis massa. Nunc facilisis scelerisque maximus. Vestibulum felis felis, ornare porttitor ante quis, laoreet hendrerit est.
-
-Donec pulvinar volutpat sem eu sagittis. Nunc consectetur eros a pellentesque pulvinar. Donec lorem lacus, dapibus nec est id, accumsan molestie magna. Quisque lacinia pulvinar sapien, eu rutrum augue maximus et. Maecenas sollicitudin magna neque, quis pharetra augue vehicula quis. Nam sollicitudin eleifend tortor, quis dictum augue dictum eu. Duis sollicitudin urna dolor, ut vestibulum leo pulvinar ultricies.
-
-Interdum et malesuada fames ac ante ipsum primis in faucibus. Vivamus aliquam orci non semper suscipit. Pellentesque ornare magna massa, sit amet vulputate sem suscipit sit amet. In sit amet lobortis ex. Praesent et molestie ante. Sed eleifend volutpat quam, posuere consectetur diam vulputate fringilla. Maecenas placerat ac tellus in elementum. Fusce finibus faucibus sapien eu sollicitudin. Nam non tortor sit amet mauris auctor aliquam vel id elit. Nam auctor magna quis sollicitudin cursus.
-
-Curabitur tincidunt eu sapien mattis congue. Aenean tincidunt justo sed justo ullamcorper, sed pharetra ligula tincidunt. Quisque vel magna non justo gravida congue et nec urna. Suspendisse gravida diam eleifend, venenatis sapien et, tincidunt lectus. In ut laoreet ex, quis suscipit augue. Vivamus congue ut libero sed ultricies. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Aenean in diam tempus, molestie nisl volutpat, accumsan enim. Duis hendrerit at sem ut viverra. Mauris finibus odio nec lacus posuere, vitae auctor massa vehicula.
+|Terms|Definition|
+|----|----|
+|Acceptance network|Word used to refer to the places (stores, hotels, restaurants...) where an end-user can spend his or her assets.|
+|Asset|It is the representation of a value (currency, loyalty point, giftcoin...) based on the blockchain that can be transferred or exchanges between parties.|
+|Blockchain|Technology used on the DAM to make the digital records.|
+|Burn|Word used when an asset is destroyed, it will no longer exist and therefore will never be in circulation anymore.|
+|DAM Platform|Digital Asset Management Platform. Name of the product.|
+|End-User|An end user in the back office corresponds to a physical person who can obtain and spend assets. It can use the mobile application to manage his or her assets but cannot connect to the back office interface.|
+|Issuer|The issuer corresponds to the client (person, company) deploying the DAM platform for its use and the provision of its users.|
+|KYC|Know Your Customer|
+|P2P|Peer To Peer|
+|PSP|Payment Service Provider|
+|User|A user in the back office corresponds to a physical person who can connect to the back office (administrator, acceptance network and issuer).|
+|Wallet|Assets owned by the same user are grouped and organized in one or more wallets.|
