@@ -22,9 +22,9 @@ We are building a future where value is transferred as easily and efficiently as
 To do so we are focus on creating an <b>innovative, modular</b> and <b>future proof</b> platform; WL Digital Asset Management to be a key building block of <b>the future of PayTech</b>.
 
 <figure>
-<img align="center" src="./screens/image2022-4-29_12-38-44.png" style="display:block;float:none;margin-left:auto;margin-right:auto">
-<img align="center" src="./screens/image2022-4-29_12-41-20.png" style="display:block;float:none;margin-left:auto;margin-right:auto">
-<img align="center" src="./screens/image2022-4-29_12-41-56.png" style="display:block;float:none;margin-left:auto;margin-right:auto">
+<img align="center" src="screens/image2022-4-29_12-38-44.png" style="display:block;float:none;margin-left:auto;margin-right:auto">
+<img align="center" src="screens/image2022-4-29_12-41-20.png" style="display:block;float:none;margin-left:auto;margin-right:auto">
+<img align="center" src="screens/image2022-4-29_12-41-56.png" style="display:block;float:none;margin-left:auto;margin-right:auto">
 </figure>
 
 ### An End-to-End Platform
@@ -32,7 +32,7 @@ To do so we are focus on creating an <b>innovative, modular</b> and <b>future pr
 One unique platform that digitalizes the entire value chain for Value Explosion. Our goal with this approach is to have different building blocks that will cover different clients needs regarding the type of implementation they want to use. 
 
 <figure>
-<img align="center" src="./screens/DAMOverview-Business.png" style="display:block;float:none;margin-left:auto;margin-right:auto">
+<img align="center" src="screens/DAMOverview-Business.png" style="display:block;float:none;margin-left:auto;margin-right:auto">
 </figure>
 
 ### 1. Create a secured operation network
@@ -60,7 +60,7 @@ Using blockchain technology you can tokenize any type of real life assets. Using
 On DAM you will issue a digital asset when you want to represent something real in a digital way or create a purely digital element. Then regarding how fungible the asset is you can issue one of the following type. 
 
 <figure>
-<img align="center" src="./screens/AssetTypeDAM.png" style="display:block;float:none;margin-left:auto;margin-right:auto;width:80%">
+<img align="center" src="screens/AssetTypeDAM.png" style="display:block;float:none;margin-left:auto;margin-right:auto;width:80%">
 </figure>
 
 <b>Fungible Assets</b>
@@ -90,7 +90,7 @@ DAM in integrated with many WL product and can also be connected to your externa
 DAM BO, is an included Web Application tool that allows our customers to have a transparent monitoring experience of all blockchain transactions, search features and audit trails. Making monitoring for you and your partners simple in the future it will even include custom dashboard and reporting tools. 
 
 <figure>
-<img align="center" src="./screens/dam-mock-multidevices.png" style="display:block;float:none;margin-left:auto;margin-right:auto;width:60%">
+<img align="center" src="screens/dam-mock-multidevices.png" style="display:block;float:none;margin-left:auto;margin-right:auto;width:60%">
 </figure>
 
 ### 3. Empower frictionless customer experience 
@@ -106,13 +106,13 @@ We also provide mobile wallets that can be customized with your branding, enabli
 Using DAM you will really create a mobile first digital payment experience with great user experience for all your customers. 
 
 <figure>
-<img align="center" src="./screens/dam-mock-mobile_(2).png" style="display:block;float:none;margin-left:auto;margin-right:auto;width:60%">
+<img align="center" src="screens/dam-mock-mobile_(2).png" style="display:block;float:none;margin-left:auto;margin-right:auto;width:60%">
 </figure>
 
 ### Structure of the solution
 
 <figure>
-<img align="center" src="./screens/DAMOverview.png" style="display:block;float:none;margin-left:auto;margin-right:auto">
+<img align="center" src="screens/DAMOverview.png" style="display:block;float:none;margin-left:auto;margin-right:auto">
 </figure>
 
 ### Usecases

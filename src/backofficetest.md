@@ -9,7 +9,7 @@ To access the Back Office, the users must use their credentials:
 Once the users are logged in successfully, they are automatically redirected to the dashboard page.
 
 <figure>
-<img align="center" src="./screens/login.png" alt="Login page" style="display:block;float:none;margin-left:auto;margin-right:auto"/>
+<img align="center" src="screens/login.png" alt="Login page" style="display:block;float:none;margin-left:auto;margin-right:auto"/>
 <figcaption align="center"><b>Login page</b></figcaption>
 </figure>
 
@@ -28,7 +28,7 @@ They can also edit their own password by entering twice the new value which must
 management rules.
 
 <figure>
-<img align="center" src="./screens/BO_user_profile.png" alt="User profile page" style="display:block;float:none;margin-left:auto;margin-right:auto"/>
+<img align="center" src="screens/BO_user_profile.png" alt="User profile page" style="display:block;float:none;margin-left:auto;margin-right:auto"/>
 <figcaption align="center"><b>User profile page</b></figcaption>
 </figure>
 
@@ -39,7 +39,7 @@ merchant.
 * The account credentials will be sent to the admin user at the end of the process. 
 
 <figure>
-<img align="center" src="./screens/enrolement.png" alt="Merchant enrolment page" style="display:block;float:none;margin-left:auto;margin-right:auto"/>
+<img align="center" src="screens/enrolement.png" alt="Merchant enrolment page" style="display:block;float:none;margin-left:auto;margin-right:auto"/>
 <figcaption align="center"><b>Merchant enrolment page</b></figcaption>
 </figure>
 
@@ -83,7 +83,7 @@ The information displayed varies according to the user’s profile.
                 * Difference in transaction total average amount compared to the day before (between the last 24h and the last 48h) 
 
 <figure>
-<img align="center" src="./screens/dashboard_issuer_v2.png" alt="Issuer dashboard" style="display:block;float:none;margin-left:auto;margin-right:auto"/>
+<img align="center" src="screens/dashboard_issuer_v2.png" alt="Issuer dashboard" style="display:block;float:none;margin-left:auto;margin-right:auto"/>
 <figcaption align="center"><b>Issuer dashboard</b></figcaption>
 </figure>
 
@@ -107,7 +107,7 @@ The information displayed varies according to the user’s profile.
         * Difference in transaction total average amount compared to the day before (between the last 24h and the last 48h). 
 
 <figure>
-<img align="center" src="./screens/dashboard_merchant_v2.png" alt="Acceptance network dashboard" style="display:block;float:none;margin-left:auto;margin-right:auto"/>
+<img align="center" src="screens/dashboard_merchant_v2.png" alt="Acceptance network dashboard" style="display:block;float:none;margin-left:auto;margin-right:auto"/>
 <figcaption align="center"><b>Acceptance network dashboard</b></figcaption>
 </figure>
 
@@ -118,7 +118,7 @@ Assets can be managed by the Issuer administrator. He or she can do the followin
 * Asset issuing 
 
 <figure>
-<img align="center" src="./screens/asset_search.png" alt="Asset management page" style="display:block;float:none;margin-left:auto;margin-right:auto"/>
+<img align="center" src="screens/asset_search.png" alt="Asset management page" style="display:block;float:none;margin-left:auto;margin-right:auto"/>
 <figcaption align="center"><b>Asset management page</b></figcaption>
 </figure>
 
@@ -140,7 +140,7 @@ The Issuer can create assets by providing the following information:
 * Asset image: commercial image of the asset that will be used by the mobile application and the back-office to represent graphically the asset
 
 <figure>
-<img align="center" src="./screens/asset_create.png" alt="Asset creation page" style="display:block;float:none;margin-left:auto;margin-right:auto"/>
+<img align="center" src="screens/asset_create.png" alt="Asset creation page" style="display:block;float:none;margin-left:auto;margin-right:auto"/>
 <figcaption align="center"><b>Asset creation page</b></figcaption>
 </figure>
 
@@ -152,7 +152,7 @@ The Issuer can modify several parameters of the asset:
 * Asset logo 
 
 <figure>
-<img align="center" src="./screens/asset_edit.png" alt="Asset modification page" style="display:block;float:none;margin-left:auto;margin-right:auto"/>
+<img align="center" src="screens/asset_edit.png" alt="Asset modification page" style="display:block;float:none;margin-left:auto;margin-right:auto"/>
 <figcaption align="center"><b>Asset modification page</b></figcaption>
 </figure>
 
@@ -161,7 +161,7 @@ An Administrator can issue additional assets if the asset reissuable property (d
 This process can be automated. 
 
 <figure>
-<img align="center" src="./screens/asset_issuing.png" alt="Asset issuing page" style="display:block;float:none;margin-left:auto;margin-right:auto"/>
+<img align="center" src="screens/asset_issuing.png" alt="Asset issuing page" style="display:block;float:none;margin-left:auto;margin-right:auto"/>
 <figcaption align="center"><b>Asset issuing page</b></figcaption>
 </figure>
 
@@ -189,14 +189,14 @@ The product allows the Issuer to manage loyaty programs.
 While a program is active, payment transactions performed with its trigger assets will automatically credit the customer with the reward asset. 
 
 <figure>
-<img align="center" src="./screens/loyalty_prog_gen.png" alt="Loyalty program general" style="display:block;float:none;margin-left:auto;margin-right:auto;width:70%"/>
+<img align="center" src="screens/loyalty_prog_gen.png" alt="Loyalty program general" style="display:block;float:none;margin-left:auto;margin-right:auto;width:70%"/>
 </figure>
 
 The credited amount of reward asset is a percentage of the trigger asset transaction amount and cannot exceed the parameterised maximum amount. The percentage and maximum amount are parameters specific to each loyalty program. 
 The loyaty programs are active for a period defined by the Issuer at the program creation. 
 
 <figure>
-<img align="center" src="./screens/loyalty_prog_display.png" alt="Loyalty program management page" style="display:block;float:none;margin-left:auto;margin-right:auto"/>
+<img align="center" src="screens/loyalty_prog_display.png" alt="Loyalty program management page" style="display:block;float:none;margin-left:auto;margin-right:auto"/>
 <figcaption align="center"><b>Loyalty program management page</b></figcaption>
 </figure>
 
@@ -216,7 +216,7 @@ quantity to send to the end user
 The same asset can be set as reward and trigger asset. 
 
 <figure>
-<img align="center" src="./screens/loyalty_prog_create.png" alt="Loyalty program creation page" style="display:block;float:none;margin-left:auto;margin-right:auto"/>
+<img align="center" src="screens/loyalty_prog_create.png" alt="Loyalty program creation page" style="display:block;float:none;margin-left:auto;margin-right:auto"/>
 <figcaption align="center"><b>Loyalty program creation page</b></figcaption>
 </figure>
 
@@ -231,7 +231,7 @@ The Issuer can modify several parameter of the loyalty program:
 * End date (optional)
 
 <figure>
-<img align="center" src="./screens/loyalty_prog_edit.png" alt="Loyalty program modification page" style="display:block;float:none;margin-left:auto;margin-right:auto"/>
+<img align="center" src="screens/loyalty_prog_edit.png" alt="Loyalty program modification page" style="display:block;float:none;margin-left:auto;margin-right:auto"/>
 <figcaption align="center"><b>Loyalty program modification page</b></figcaption>
 </figure>
 
@@ -239,7 +239,7 @@ The Issuer can modify several parameter of the loyalty program:
 If the Issuer tries to delete a loyalty program, a confirmation pop-up is displayed asking for confirmation. 
 
 <figure>
-<img align="center" src="./screens/loyalty_prog_delete.png" alt="Loyalty program deletion page" style="display:block;float:none;margin-left:auto;margin-right:auto"/>
+<img align="center" src="screens/loyalty_prog_delete.png" alt="Loyalty program deletion page" style="display:block;float:none;margin-left:auto;margin-right:auto"/>
 <figcaption align="center"><b>Loyalty program deletion page</b></figcaption>
 </figure>
 
@@ -247,7 +247,7 @@ If the Issuer tries to delete a loyalty program, a confirmation pop-up is displa
 An administrator can manage organisations (according to their rights). 
 
 <figure>
-<img align="center" src="./screens/orga_management.png" alt="Organisation general" style="display:block;float:none;margin-left:auto;margin-right:auto"/>
+<img align="center" src="screens/orga_management.png" alt="Organisation general" style="display:block;float:none;margin-left:auto;margin-right:auto"/>
 </figure>
 
 It is possible to: 
@@ -257,7 +257,7 @@ It is possible to:
 * Create a new organisation. 
 
 <figure>
-<img align="center" src="./screens/orga_search.png" alt="Organisation search page" style="display:block;float:none;margin-left:auto;margin-right:auto"/>
+<img align="center" src="screens/orga_search.png" alt="Organisation search page" style="display:block;float:none;margin-left:auto;margin-right:auto"/>
 <figcaption align="center"><b>Organisation search page</b></figcaption>
 </figure>
 
@@ -269,13 +269,13 @@ It is possible to:
 
 **Details:**
 <figure>
-<img align="center" src="./screens/orga_details.png" alt="Organisation details page" style="display:block;float:none;margin-left:auto;margin-right:auto"/>
+<img align="center" src="screens/orga_details.png" alt="Organisation details page" style="display:block;float:none;margin-left:auto;margin-right:auto"/>
 <figcaption align="center"><b>Organisation details page</b></figcaption>
 </figure>
 
 **Creation:**
 <figure>
-<img align="center" src="./screens/orga_creation.png" alt="Organisation creation page" style="display:block;float:none;margin-left:auto;margin-right:auto"/>
+<img align="center" src="screens/orga_creation.png" alt="Organisation creation page" style="display:block;float:none;margin-left:auto;margin-right:auto"/>
 <figcaption align="center"><b>Organisation creation page</b></figcaption>
 </figure>
 
@@ -322,7 +322,7 @@ An administrator can manage wallets on the platform (depending on their rights).
 It is possible to consult the list of wallets, and to search them. By clicking on a line, the administrator accesses the details of the selected wallet. 
 
 <figure>
-<img align="center" src="./screens/wallet_seach.png" alt="Wallet search page" style="display:block;float:none;margin-left:auto;margin-right:auto"/>
+<img align="center" src="screens/wallet_seach.png" alt="Wallet search page" style="display:block;float:none;margin-left:auto;margin-right:auto"/>
 <figcaption align="center"><b>Wallet search page</b></figcaption>
 </figure>
 
@@ -331,7 +331,7 @@ It is also possible to generate the static QR code corresponding to the wallet. 
 A dynamic QR code can be generated by API to allow the merchant to fill the transaction amount before the QR code generation. 
 
 <figure>
-<img align="center" src="./screens/wallet_details.png" alt="Wallet details page" style="display:block;float:none;margin-left:auto;margin-right:auto"/>
+<img align="center" src="screens/wallet_details.png" alt="Wallet details page" style="display:block;float:none;margin-left:auto;margin-right:auto"/>
 <figcaption align="center"><b>Wallet details page</b></figcaption>
 </figure>
 
@@ -345,7 +345,7 @@ The generic DAM KYC contains :
 The KYC enrolment and validation is in charge of the KYC partner that will be integrated in the DAM Platform solution.
 
 <figure>
-<img align="center" src="./screens/kyc_gen.png" alt="KYC overview" style="display:block;float:none;margin-left:auto;margin-right:auto"/>
+<img align="center" src="screens/kyc_gen.png" alt="KYC overview" style="display:block;float:none;margin-left:auto;margin-right:auto"/>
 </figure>
 
 ### KYC engine description
@@ -385,7 +385,7 @@ The issuer can search a specific cash-in transaction with the following criteria
 * End-user
 
 <figure>
-<img align="center" src="./screens/cash-in_search.png" alt="Cash-in search page" style="display:block;float:none;margin-left:auto;margin-right:auto"/>
+<img align="center" src="screens/cash-in_search.png" alt="Cash-in search page" style="display:block;float:none;margin-left:auto;margin-right:auto"/>
 <figcaption align="center"><b>Cash-in search page</b></figcaption>
 </figure>
 
@@ -411,7 +411,7 @@ The user can search a specific payment transaction with the following criteria:
 * End-user
 
 <figure>
-<img align="center" src="./screens/Bill_search.png" alt="Bills search page" style="display:block;float:none;margin-left:auto;margin-right:auto"/>
+<img align="center" src="screens/Bill_search.png" alt="Bills search page" style="display:block;float:none;margin-left:auto;margin-right:auto"/>
 <figcaption align="center"><b>Bills search page</b></figcaption>
 </figure>
 
@@ -438,7 +438,7 @@ The user can search a specific Blockchain transaction with the following criteri
 * Receiver 
 
 <figure>
-<img align="center" src="./screens/transaction_search.png" alt="Blockchain transactions search page" style="display:block;float:none;margin-left:auto;margin-right:auto"/>
+<img align="center" src="screens/transaction_search.png" alt="Blockchain transactions search page" style="display:block;float:none;margin-left:auto;margin-right:auto"/>
 <figcaption align="center"><b>Blockchain transactions search page</b></figcaption>
 </figure>
 
@@ -458,7 +458,7 @@ The general information are:
 * Quantity of asset
 
 <figure>
-<img align="center" src="./screens/transaction_details.png" alt="Blockchain transactions details page" style="display:block;float:none;margin-left:auto;margin-right:auto"/>
+<img align="center" src="screens/transaction_details.png" alt="Blockchain transactions details page" style="display:block;float:none;margin-left:auto;margin-right:auto"/>
 <figcaption align="center"><b>Blockchain transactions details page</b></figcaption>
 </figure>
 
@@ -507,7 +507,7 @@ Via the Users menu, it is possible to:
 
 #### User Search
 <figure>
-<img align="center" src="./screens/user_search.png" alt="User search page" style="display:block;float:none;margin-left:auto;margin-right:auto"/>
+<img align="center" src="screens/user_search.png" alt="User search page" style="display:block;float:none;margin-left:auto;margin-right:auto"/>
 <figcaption align="center"><b>User search page</b></figcaption>
 </figure>
 
@@ -527,7 +527,7 @@ From this page an administrator can:
 * Reinitialise the user’s password: an email is sent with the procedure to follow to redefine a password. 
 
 <figure>
-<img align="center" src="./screens/user_details.png" alt="User details page" style="display:block;float:none;margin-left:auto;margin-right:auto"/>
+<img align="center" src="screens/user_details.png" alt="User details page" style="display:block;float:none;margin-left:auto;margin-right:auto"/>
 <figcaption align="center"><b>User details page</b></figcaption>
 </figure>
 
@@ -555,7 +555,7 @@ Search criteria:
 * Creation date (range) 
 
 <figure>
-<img align="center" src="./screens/enduser_search.png" alt="EndUser search page" style="display:block;float:none;margin-left:auto;margin-right:auto"/>
+<img align="center" src="screens/enduser_search.png" alt="EndUser search page" style="display:block;float:none;margin-left:auto;margin-right:auto"/>
 <figcaption align="center"><b>EndUser search page</b></figcaption>
 </figure>
 
@@ -577,7 +577,7 @@ From this page an administrator can:
     * A mail is sent to the user to allow them to update their password. 
 
 <figure>
-<img align="center" src="./screens/enduser_details.png" alt="EndUser details page" style="display:block;float:none;margin-left:auto;margin-right:auto"/>
+<img align="center" src="screens/enduser_details.png" alt="EndUser details page" style="display:block;float:none;margin-left:auto;margin-right:auto"/>
 <figcaption align="center"><b>EndUser details page</b></figcaption>
 </figure>
 
@@ -593,21 +593,21 @@ Customised profiles can be defined at the platform instanciation according to th
 The cash-out process is the feature allowing the transfer of all the assets or part of the balance of the merchant wallets to the Issuer wallets, to carry out the reconciliation outside the application.
 
 <figure>
-<img align="center" src="./screens/cash_out_gen.png" alt="Cash-out overview" style="display:block;float:none;margin-left:auto;margin-right:auto"/>
+<img align="center" src="screens/cash_out_gen.png" alt="Cash-out overview" style="display:block;float:none;margin-left:auto;margin-right:auto"/>
 </figure>
 
 ### Cash-out From Issuer
 The Issuer can launch the cash-out process through his/her dashboard, by clicking on the cash-out process button on the top right of the page. 
 
 <figure>
-<img align="center" src="./screens/cash_out_from_issuer.png" alt="Manual cash-out trigger by the Issuer" style="display:block;float:none;margin-left:auto;margin-right:auto"/>
+<img align="center" src="screens/cash_out_from_issuer.png" alt="Manual cash-out trigger by the Issuer" style="display:block;float:none;margin-left:auto;margin-right:auto"/>
 <figcaption align="center"><b>Manual cash-out trigger by the Issuer</b></figcaption>
 </figure>
 
 Once the Issuer has clicked on the cash-out button, a pop-up is displayed describing the process and the Issuer must select the asset(s) he wants to process. 
 
 <figure>
-<img align="center" src="./screens/cashout_process.png" alt="Cash-out process trigger pop-up" style="display:block;float:none;margin-left:auto;margin-right:auto"/>
+<img align="center" src="screens/cashout_process.png" alt="Cash-out process trigger pop-up" style="display:block;float:none;margin-left:auto;margin-right:auto"/>
 <figcaption align="center"><b>Cash-out process trigger pop-up</b></figcaption>
 </figure>
 
@@ -627,7 +627,7 @@ On the wallet details page, the cash-out process can be requested for each asset
 For the assets with a balance > 0, the cash-out button is available. 
 
 <figure>
-<img align="center" src="./screens/cash_out_from_merchant.png" alt="Manual cash-out trigger by the Merchant" style="display:block;float:none;margin-left:auto;margin-right:auto"/>
+<img align="center" src="screens/cash_out_from_merchant.png" alt="Manual cash-out trigger by the Merchant" style="display:block;float:none;margin-left:auto;margin-right:auto"/>
 <figcaption align="center"><b>Manual cash-out trigger by the Merchant</b></figcaption>
 </figure>
 
@@ -635,7 +635,7 @@ If the Merchant clicks on the cash-out button for one asset, a pop-up is display
 of the process, asking the Merchant to indicate the quantity of asset to cash-out. 
 
 <figure>
-<img align="center" src="./screens/cash_out_request_popup.png" alt="Cash-out request pop-up" style="display:block;float:none;margin-left:auto;margin-right:auto"/>
+<img align="center" src="screens/cash_out_request_popup.png" alt="Cash-out request pop-up" style="display:block;float:none;margin-left:auto;margin-right:auto"/>
 <figcaption align="center"><b>Cash-out request pop-up</b></figcaption>
 </figure>
 
@@ -659,14 +659,14 @@ The Issuer can search a specific request with the following search criteria:
 * Maximum quantity 
 
 <figure>
-<img align="center" src="./screens/cash_out_request_search.png" alt="Cash-out request search page" style="display:block;float:none;margin-left:auto;margin-right:auto"/>
+<img align="center" src="screens/cash_out_request_search.png" alt="Cash-out request search page" style="display:block;float:none;margin-left:auto;margin-right:auto"/>
 <figcaption align="center"><b>Cash-out request search page</b></figcaption>
 </figure>
 
 To accept a pending cash-out request, the Issuer must click on the validation button, a pop-up is displayed to confirm the action. 
 
 <figure>
-<img align="center" src="./screens/cash_out_request_validation.png" alt="Cash-out request validation pop-up" style="display:block;float:none;margin-left:auto;margin-right:auto"/>
+<img align="center" src="screens/cash_out_request_validation.png" alt="Cash-out request validation pop-up" style="display:block;float:none;margin-left:auto;margin-right:auto"/>
 <figcaption align="center"><b>Cash-out request validation pop-up</b></figcaption>
 </figure>
 
@@ -677,7 +677,7 @@ The cash-out request is set to the finalised status.
 To reject a pending cash-out request, the Issuer must click on the rejection button, a pop-up is displayed to confirm the action.
 
 <figure>
-<img align="center" src="./screens/cash_out_request_rejection.png" alt="Cash-out request rejection pop-up" style="display:block;float:none;margin-left:auto;margin-right:auto"/>
+<img align="center" src="screens/cash_out_request_rejection.png" alt="Cash-out request rejection pop-up" style="display:block;float:none;margin-left:auto;margin-right:auto"/>
 <figcaption align="center"><b>Cash-out request rejection pop-up</b></figcaption>
 </figure>
 
@@ -693,7 +693,7 @@ The cash-out request is set to the rejected status.
  * Assets 
 
 <figure>
-<img align="center" src="./screens/cashout_files_search.png" alt="Cash-out files search page" style="display:block;float:none;margin-left:auto;margin-right:auto"/>
+<img align="center" src="screens/cashout_files_search.png" alt="Cash-out files search page" style="display:block;float:none;margin-left:auto;margin-right:auto"/>
 <figcaption align="center"><b>Cash-out files search page</b></figcaption>
 </figure>
 
@@ -725,7 +725,7 @@ The current logos are displayed
 The maximum size allowed is 100ko 
 
 <figure>
-<img align="center" src="./screens/graphical_elements_logos.png" alt="Back-office logo customisation" style="display:block;float:none;margin-left:auto;margin-right:auto"/>
+<img align="center" src="screens/graphical_elements_logos.png" alt="Back-office logo customisation" style="display:block;float:none;margin-left:auto;margin-right:auto"/>
 <figcaption align="center"><b>Back-office logo customisation</b></figcaption>
 </figure>
 
@@ -737,6 +737,6 @@ The possible actions are:
 The maximum number of cards is 3. If the number of cards is > 3, the creation button is disabled. 
 
 <figure>
-<img align="center" src="./screens/graphical_elements_mobile_cards.png" alt="Mobile cards customisation" style="display:block;float:none;margin-left:auto;margin-right:auto"/>
+<img align="center" src="screens/graphical_elements_mobile_cards.png" alt="Mobile cards customisation" style="display:block;float:none;margin-left:auto;margin-right:auto"/>
 <figcaption align="center"><b>Mobile cards customisation</b></figcaption>
 </figure>
